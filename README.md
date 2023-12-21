@@ -19,4 +19,4 @@ summary_stats = pd.concat([metrics, ci_series])'
 
 For the 5 years retirement option, I kept the weights of the portfolio the same, but modified the initial investment and declared it to be $48,000.
 
-For the 10 years retirement option, I changed the weights of the portfolio to [0.30,0.70] and set the initial investment amount to $27000.
+For the 10 years retirement option, I changed the weights of the portfolio to [0.80,0.20] and set the initial investment amount to $27000.
